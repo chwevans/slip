@@ -1,0 +1,12 @@
+/ebin
+/deps
+erl_crash.dump
+/tmp
+_build
+/logs
+/log
+/slip
+/test_res
+reports
+/lib/test_actions.ex
+.fetch
